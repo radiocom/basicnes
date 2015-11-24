@@ -1,0 +1,1 @@
+basicNES is an NES emulator for the Windows platform written in Visual Basic. It supports many mappers and runs many games accurately. Sound is MIDI.
